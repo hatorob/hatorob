@@ -1,5 +1,5 @@
 <div align="center">
-<img src="/public/marca1.jpeg" align="center" style="width: 100%" />
+<img src="/public/marca1.jpeg" align="center" style="width: 100%; height: 340px;" />
 </div>  
   
 
