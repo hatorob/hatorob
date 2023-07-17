@@ -91,7 +91,7 @@ Quiero aportar mis conocimientos a grandes empresas del sector, con el fin de qu
 <a href="https://linkedin.com/in/héctor-alejandro-toro-bernal-5675a6180" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/hatorob" target="_blank">
+<a href="https://instagram.com/_alejandro_toro" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
